@@ -1,0 +1,2 @@
+/*Uma variável é um identificador (Apelido) atribuído pelo programador a um espaço de memória do computador que armazena um valor.
+São fundamentais para armazenar e manipular dados em um programa, podendo conter diferentes tipos de dados, como números, strings, booleanos, entre outros*/
