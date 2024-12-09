@@ -1,4 +1,4 @@
-let n = Math.floor(Math.ramdom() * 101);
+let n = Math.floor(Math.random() * 101);
 let num = 0;
 for (let cont = 0; cont < 10; cont++) {
     num = parseInt(prompt('Digite um numero: '));
