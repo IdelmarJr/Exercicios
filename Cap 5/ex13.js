@@ -1,10 +1,8 @@
 let n = Math.floor(Math.ramdom() * 101);
-let num = 0;
-let cont = 0;
-while (cont < 10){
-    cont++
+let num = 0;
+for (let cont = 0; cont < 10; conta++) {
     num = parseInt(prompt('Digite um numero: '));
-    if(n === num){
+    if(n === num) {
         console.log('Parabens você acertou!');
         console.log(n);
     } else {
