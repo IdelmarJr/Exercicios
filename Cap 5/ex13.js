@@ -5,6 +5,7 @@ for (let cont = 0; cont < 10; cont++) {
     if(n === num) {
         console.log('Parabens você acertou!');
         console.log(n);
+        break;
     } else {
         if (num > n) {
             console.log('maior do que o numero secreto');
