@@ -8,6 +8,6 @@ for (let i = 0; i < 5; i++){
     coment.push(comentario);
 };
 
-film.forEach((filme, index)=>
+film.forEach((filme, index) =>
     console.log(film[index], 'seu comentario é ' + coment[index])
 );
