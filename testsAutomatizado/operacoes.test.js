@@ -16,3 +16,5 @@ describe('testes de soma', () => {
         expect(divisao(10, 2)).toBe(5)
     })
 })
+// bun test
+// bun test --coverage
